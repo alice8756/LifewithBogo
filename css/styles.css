@@ -145,6 +145,9 @@ body {
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
+  min-height: 100vh;
+  width: 100vw;
+  overflow-x: hidden ;
   text-align: var(--bs-body-text-align);
   background: var(--bs-body-bg-img);
   -webkit-text-size-adjust: 100%;
